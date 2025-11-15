@@ -1,4 +1,4 @@
-<!-- Animated Typing Header -->
+
 <h1 align="center">
   <a href="#"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Soni;Software+Engineer;IoT+Enthusiast;Programming+Enthusiast" alt="Typing SVG" />
@@ -85,16 +85,10 @@ GPS + OLED-based speed measurement device (PCB designed in KiCad).
 
 # 🌐 Connect With Me
 
-  <a href="#"><img src="https://www.linkedin.com/in/ayush-soni-5652b4328/" width="48"/></a>
-<a href="#"><img src="(https://www.hackerrank.com/profile/ayush100ni2211)" width="48"/></a>
-
-
 <p align="center">
-  
-
-
-<!-- <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a> -->
-
+<a href="#"><img src="https://www.linkedin.com/in/ayush-soni-5652b4328/" width="48"/></a>
+<a href="#"><img src="(https://www.hackerrank.com/profile/ayush100ni2211)" width="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ayush100ni2211@gmail.com" width="48"/></a> 
 
 </p>
 
