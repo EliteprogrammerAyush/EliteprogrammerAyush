@@ -86,9 +86,11 @@ GPS + OLED-based speed measurement device (PCB designed in KiCad).
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://www.linkedin.com/in/ayush-soni-5652b4328/" width="48"/></a>
-<a href="#"><img src="(https://www.hackerrank.com/profile/ayush100ni2211)" width="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ayush100ni2211@gmail.com" width="48"/></a> 
+  <a href="https://www.linkedin.com/in/ayush-soni-5652b4328/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <!-- <a href="https://instagram.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a> -->
+</p>
+
 
 </p>
 
