@@ -42,7 +42,7 @@
 [![Skills](https://skillicons.dev/icons?i=vscode,linux,github,git)]()
 
 ### 🔹 IoT / Hardware
-[![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)]()
+[![Skills](https://skillicons.dev/icons?i=arduino)]()
 
 ---
 
