@@ -48,10 +48,8 @@
 
 # 🚀 Featured Projects
 
-### 🔹 **🌱 3re Tech – Sustainable Innovation**
-A startup vision focused on innovative waste management & recycling solutions.
 
-### 🔹 **💪 Vajra – Military Exoskeleton Suit**
+### 🔹 **ATS Resume Parser & Visualizer**
 Indian-themed exoskeleton project based on advanced embedded systems.
 
 ### 🔹 **🚗 Arduino GPS Speedometer**
