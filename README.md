@@ -184,7 +184,7 @@ Worked with industrial automation and embedded technologies.
 
 ---
 
-### 🤖 Robotics Lab Internship
+### Internship At IIT Bhubaneshwar
 
 Worked on robotics development with focus on a **servo-based snake robot**.
 
@@ -206,19 +206,6 @@ Worked with Python-based data science tools.
 **Technologies:**
 
 `Python` • `NumPy` • `Pandas` • `Matplotlib`
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EliteprogrammerAyush&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
-> GitHub's native contribution graph on my profile reflects my latest coding activity and contributions.
 
 ---
 
