@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="#"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Soni;Software+Engineer;IoT+Enthusiast;Programming+Enthusiast" alt="Typing SVG" />
@@ -36,25 +35,28 @@
 # 🛠️ Tech Stack
 
 ### 🔹 Languages
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)]()
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](https://skillicons.dev)
 
 ### 🔹 Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=vscode,linux,github,git)]()
+[![Skills](https://skillicons.dev/icons?i=vscode,linux,github,git)](https://skillicons.dev)
 
 ### 🔹 IoT / Hardware
-[![Skills](https://skillicons.dev/icons?i=arduino)]()
+[![Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 ---
 
 # 🚀 Featured Projects
 
-
 ### 🔹 **ATS Resume Parser & Visualizer**
-Indian-themed exoskeleton project based on advanced embedded systems.
+Indian-themed exoskeleton project based on advanced embedded systems and NLP visualizer.
 
 ### 🔹 **🚗 Arduino GPS Speedometer**
 GPS + OLED-based speed measurement device (PCB designed in KiCad).
 
+### 🔹 **🏨 Hotel Management System**
+Console-based hotel management and inventory tracking system built in C++.
+
+---
 
 # 📊 GitHub Analytics
 
@@ -85,17 +87,9 @@ GPS + OLED-based speed measurement device (PCB designed in KiCad).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-soni-5652b4328/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <!-- <a href="https://instagram.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a> -->
-</p>
-
-
 </p>
 
 ---
 
 # ⚡ Fun Fact  
 **You already know more than you think — consistency is your biggest power. ⚡**
-
-
-
